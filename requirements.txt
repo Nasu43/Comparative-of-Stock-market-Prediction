@@ -5,6 +5,3 @@ matplotlib==3.7.1
 seaborn==0.12.2
 tensorflow==2.14.0
 yfinance==0.2.14
-frozendict
-beautifulsoup4
-lxml html5lib
